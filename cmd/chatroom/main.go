@@ -9,7 +9,7 @@ import (
 )
 
 var (
-	addr   = ":https://github.com/0x401000Nu1l/golang_chatroom"
+	addr   = ":2020" //端口
 	banner = `
     ____              _____ 
    |    |    |   /\     |

@@ -4,14 +4,15 @@ go 1.18
 
 require (
 	github.com/fsnotify/fsnotify v1.5.4
-	github.com/gorilla/websocket v1.4.1
+	github.com/gorilla/websocket v1.5.0
 	github.com/spf13/cast v1.5.0
 	github.com/spf13/viper v1.12.0
-	nhooyr.io/websocket v1.7.4
+	nhooyr.io/websocket v1.8.7
 )
 
 require (
 	github.com/hashicorp/hcl v1.0.0 // indirect
+	github.com/klauspost/compress v1.10.3 // indirect
 	github.com/magiconair/properties v1.8.6 // indirect
 	github.com/mitchellh/mapstructure v1.5.0 // indirect
 	github.com/pelletier/go-toml v1.9.5 // indirect
